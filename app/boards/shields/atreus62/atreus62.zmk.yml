@@ -2,8 +2,7 @@ file_format: "1"
 id: atreus62
 name: Atreus62
 type: shield
-url: https://github.com/ncartledge88/
-requires:
-  - nice!nano
+url: https://github.com/ncartledge88/atreus62
+requires: [pro_micro]
 features:
   - keys
